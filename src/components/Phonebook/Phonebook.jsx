@@ -1,5 +1,5 @@
-import {  useState, useEffect } from 'react';
-import { nanoid } from 'nanoid';
+import {  useState } from 'react';
+// import { nanoid } from 'nanoid';
 import styles from './phonebook.module.css';
 import ContactForm from './ContactForm/ContactForm';
 import ContactList from './ContactList/ContactList';
